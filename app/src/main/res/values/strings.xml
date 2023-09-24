@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">latihan Mandiri</string>
+    <array name="kelas">
+        <item>Ekonomi</item>
+        <item>Bisnis</item>
+        <item>Eksekutif</item>
+    </array>
+
+</resources>
